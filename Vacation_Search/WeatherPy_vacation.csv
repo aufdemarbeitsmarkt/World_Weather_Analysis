@@ -1,0 +1,34 @@
+City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
+0,Cherskiy,RU,20.68,light snow,68.75,161.3,Gostinitsa
+42,Yellowknife,CA,28.92,light snow,62.456,-114.3525,The Explorer Hotel
+47,Mezen,RU,30.69,overcast clouds,65.8522,44.24,Gostevoy Dom Everest
+87,Khatanga,RU,2.59,broken clouds,71.9667,102.5,"""Khatanga"""
+89,Lesosibirsk,RU,27.12,few clouds,58.2358,92.4828,"""Vitalina"" hotel"
+91,Barrow,US,21.22,mist,71.2906,-156.7887,King Eider Inn
+118,Hay River,CA,31.98,overcast clouds,60.8156,-115.7999,Ptarmigan Inn
+164,Vardo,NO,26.58,clear sky,70.3705,31.1107,Vardø Hotel AS
+213,Belyy Yar,RU,31.86,clear sky,53.6039,91.3903,Pasportnyy Stol
+227,Chernyshevskiy,RU,23.61,light snow,63.0128,112.4714,Chernyseyskiy
+263,Chegdomyn,RU,30.63,few clouds,51.1167,133.0167,Gostinitsa Bureya
+268,Tiksi,RU,1.27,overcast clouds,71.6872,128.8694,Arktika
+277,Pevek,RU,22.93,overcast clouds,69.7008,170.3133,Severnoye Zoloto
+351,Leningradskiy,RU,22.53,overcast clouds,69.3833,178.4167,Gostinitsa
+354,Clyde River,CA,26.83,overcast clouds,70.4692,-68.5914,Qamaq Hotel
+385,Okha,RU,31.44,snow,53.5739,142.9478,Sakhalin-Sfera
+411,Zhigansk,RU,20.12,snow,66.7697,123.3711,Gostinichnyy Kompleks Aylgy
+461,Longyearbyen,SJ,17.44,broken clouds,78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
+467,Bilibino,RU,23.38,overcast clouds,68.0546,166.4372,Gostinitsa Severyanka
+475,Zima,RU,29.16,few clouds,53.9202,102.0442,"""Na Uglu"""
+482,Chernogorsk,RU,31.53,clear sky,53.8236,91.2842,Chernogorsk
+512,Qasigiannguit,GL,25.79,clear sky,68.8193,-51.1922,Almost HOME
+534,Iqaluit,CA,29.93,broken clouds,63.7506,-68.5145,Frobisher Inn
+542,Pangnirtung,CA,27.37,broken clouds,66.1451,-65.7125,Kilabuk Lodge
+561,Zapolyarnyy,RU,31.28,overcast clouds,69.4154,30.8136,Pechenga
+580,Iskateley,RU,30.13,overcast clouds,67.6803,53.1512,Hostel Agat
+585,Ilulissat,GL,26.76,clear sky,69.2167,-51.1,Hotel Arctic
+620,Batagay,RU,29.86,snow,67.6333,134.6333,Gostinitsa Ki'ileekh
+626,Qaanaaq,GL,25.79,overcast clouds,77.484,-69.3632,Qaanaaq Hotel
+641,Norilsk,RU,9.43,broken clouds,69.3535,88.2027,NordHostel
+676,Mehamn,NO,30.11,light snow,71.0357,27.8492,Mehamn Arctic Hotel AS
+684,Upernavik,GL,20.86,overcast clouds,72.7868,-56.1549,Café de Upernavik
+700,Yeniseysk,RU,27.09,broken clouds,58.4497,92.1703,"""Domino"""
